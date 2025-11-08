@@ -1,0 +1,3 @@
+[submodule "content/DLandry_courses"]
+	path = content/DLandry_courses
+	url = https://github.com/NSI-Clemenceau/NSI_1ere.git
