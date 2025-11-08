@@ -1,5 +1,6 @@
 {
   "disabledExtensions": [
+    "@jupyterlite/example-files-extension",
     "@jupyterlite/p5-kernel-extension"
   ]
 }
