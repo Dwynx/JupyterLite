@@ -1,0 +1,5 @@
+{
+  "disabledExtensions": [
+    "@jupyterlite/p5-kernel-extension"
+  ]
+}
